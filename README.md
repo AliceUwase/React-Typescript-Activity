@@ -1,5 +1,25 @@
 # react-dev-week-2-react-app
 
+## Project Overview
+
+This is a simple React application built with TypeScript and Vite. It demonstrates how to create and use a custom React component, display content, and apply CSS styling.
+
+## How to Run
+
+1. Open a terminal in the `my-first-react-app` directory.
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+
+    ```bash
+   npm run dev
+    ```
+4. Open the URL shown in the terminal, usually http://localhost:5173/.
+
+
 ### Guided Learning Activity: Creating Your First React App with TypeScript and Vite
 
 **Goal:** Build a simple React app that displays a heading and a paragraph of text using a custom component, styled with CSS.
